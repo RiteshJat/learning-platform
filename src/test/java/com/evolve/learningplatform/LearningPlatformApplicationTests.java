@@ -1,4 +1,4 @@
-package com.evolve.learning_platform;
+package com.evolve.learningplatform;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
